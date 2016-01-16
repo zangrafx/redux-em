@@ -1,0 +1,28 @@
+{
+  "author": "zangrafx <zangrafx@gmail.com>",
+  "dependencies": {
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6",
+    "react-redux": "^4.0.6",
+    "redux": "^3.0.5"
+  },
+  "description": "redux em",
+  "devDependencies": {
+    "gore-gulp": "0.x",
+    "gulp": "3.x",
+    "redux-devtools": "^3.0.1"
+  },
+  "directories": {
+    "dist": "dist",
+    "lib": "src"
+  },
+  "engines": {
+    "node": ">=0.12"
+  },
+  "main": "src",
+  "name": "redux-em",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "version": "0.0.0"
+}
